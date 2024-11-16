@@ -81,9 +81,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaramg14&hide_border=true&layout=compact" align="center" /></div>  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cesaramg14&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=cesaramg14&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cesaramg14&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesaramg14&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
 <br/>  
 
@@ -92,6 +97,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
