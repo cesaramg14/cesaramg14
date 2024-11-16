@@ -93,11 +93,11 @@
 <br/>
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaramg14)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cesaramg14&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesaramg14&theme=midnight-purple&layout=compact)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaramg14&layout=compact" />
 </p>
 
 <br/>  
